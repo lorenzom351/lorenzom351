@@ -29,7 +29,6 @@
 <div align="center">
   <a href="https://github.com/tandpfun/skill-icons">
     <img src="https://skillicons.dev/icons?i=mysql,linux,html,css,js,nodejs&theme=dark" alt="MySQL, Linux, HTML, CSS, JavaScript and Node.js" />
-    <img src="assets/trello.svg" width="48" height="48" alt="Trello" />
     <img src="https://skillicons.dev/icons?i=obsidian,vercel,mongodb,git&theme=dark" alt="Obsidian, Vercel, MongoDB and Git" />
   </a>
 </div>
