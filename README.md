@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.jpg" width="100%" alt="Animated car wallpaper banner" />
+  <img src="assets/banner.gif" width="100%" alt="Animated car wallpaper banner" />
 
   # Hello, I'm Lorenzo Marlon! 👋
 
@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:Lorenzomarlon351@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
 
@@ -28,7 +28,9 @@
 
 <div align="center">
   <a href="https://github.com/tandpfun/skill-icons">
-    <img src="https://skillicons.dev/icons?i=mysql,linux,html,css,js,nodejs,trello,obsidian,vercel,mongodb,git&theme=dark" alt="MySQL, Linux, HTML, CSS, JavaScript, Node.js, Trello, Obsidian, Vercel, MongoDB and Git" />
+    <img src="https://skillicons.dev/icons?i=mysql,linux,html,css,js,nodejs&theme=dark" alt="MySQL, Linux, HTML, CSS, JavaScript and Node.js" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Trello-Dark.svg" width="48" height="48" alt="Trello" />
+    <img src="https://skillicons.dev/icons?i=obsidian,vercel,mongodb,git&theme=dark" alt="Obsidian, Vercel, MongoDB and Git" />
   </a>
 </div>
 
@@ -53,9 +55,4 @@
 <div align="center">
   <img height="165" src="https://github-readme-stats-rho.vercel.app/api?username=lorenzom351&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Lorenzo Marlon's GitHub statistics" />
   <img height="165" src="https://github-readme-stats-rho.vercel.app/api/top-langs/?username=lorenzom351&layout=compact&theme=tokyonight&hide_border=true" alt="Lorenzo Marlon's most used languages" />
-</div>
-
-<div align="center">
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=lorenzom351&label=PROFILE+VIEWS&color=007ACC&style=flat" alt="Profile views" />
 </div>
