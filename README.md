@@ -55,3 +55,11 @@
   <img height="165" src="https://github-readme-stats-rho.vercel.app/api?username=lorenzom351&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Lorenzo Marlon's GitHub statistics" />
   <img height="165" src="https://github-readme-stats-rho.vercel.app/api/top-langs/?username=lorenzom351&layout=compact&theme=tokyonight&hide_border=true" alt="Lorenzo Marlon's most used languages" />
 </div>
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lorenzom351/lorenzom351/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lorenzom351/lorenzom351/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lorenzom351/lorenzom351/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
+
+###
