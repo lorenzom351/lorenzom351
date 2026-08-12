@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.gif" width="100%" alt="Animated car wallpaper banner" />
+  <img src="gif/GIF.gif" width="100%" alt="Animated car wallpaper banner" />
 
   # Hello, I'm Lorenzo Marlon! 👋
 
